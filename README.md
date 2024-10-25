@@ -52,9 +52,3 @@ Lycée Chateaubriand (2021-2023)
 
 - Email: rabreau.nicolas@pm.me
 - LinkedIn: Nicolas Rabreau
-
-
-
-## Professional Objective
-
-I am seeking a 4-month internship in Quantum Technologies for 2024-2025, with a goal of advancing my expertise in Quantum Physics and R&D applications in the industry.
