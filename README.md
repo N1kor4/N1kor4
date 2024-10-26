@@ -19,7 +19,7 @@ Creation of a Tetris game in C++ with graphical interface management, saving fea
 
 - Technologies: C++, SDL (Simple DirectMedia Layer)
 - Key Skills: Object-oriented programming, event handling, cross-platform development
-- Project Link
+- [Project Link](https://github.com/N1kor4/Tetris)
 
 ### 3. TIPE - Dynamic Hydrophobicity Analysis with Arduino and Python
 
@@ -27,7 +27,7 @@ Dynamic hydrophobicity study of different materials conducted for my TIPE (Perso
 
 - Technologies: Arduino, Python, OpenCV, Numpy
 - Key Skills: Stepper motor control, image processing, experimental data analysis, fluid dynamics
-- Project Link
+- [Project Link](https://github.com/N1kor4/TIPE_PC)
 
 
 ## Technical Skills
