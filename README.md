@@ -11,7 +11,7 @@ Development of a measurement station for FeRAM (Ferroelectric RAM) characterizat
 
 - Technologies: Arduino, C++, FeRAM
 - Key Skills: Embedded systems programming, memory testing, electrical measurement, code optimization
-- Project Link
+- [Project Link](https://github.com/minfo10/Defis_FeRAM)
 
 ### 2. Self-playable Tetris in C++
 
