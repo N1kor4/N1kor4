@@ -10,17 +10,11 @@ I am a final-year engineering student at Phelma (Grenoble INP), specializing in 
 
 ### 1. Eminent Earth – Privacy-Focused Web Portfolio
 
-**Eminent Earth** is a personal web project that showcases my profile and work while emphasizing **privacy, reproducibility, and security**. I built it with **Astro**, leveraging **Docker** for containerized deployment to ensure consistent, isolated, and reproducible environments.
+**Eminent Earth** is a personal web project that showcases my profile and work while emphasizing **privacy and security**. I built it with **Astro**.
 
 * **Technologies:** Astro, Docker, HTML, CSS, JavaScript
 * **Key Skills:** Privacy-first web development, containerized deployment, static site generation, modern frontend design
-* **Project Highlights:**
-  * Fully containerized with **Docker** for secure and reproducible deployment
-  * Privacy-focused: no tracking scripts, minimal data collection
-  * Modular, maintainable design suitable for personal and professional portfolios
-  * Lightweight and fast thanks to Astro’s static site generation
 * **Project Link:** [Eminent Earth](https://github.com/N1kor4/eminent-earth)
-
 
 
 ### 2. Waveform Plotter
@@ -59,26 +53,6 @@ Study of dynamic hydrophobicity of various materials using a **stepper motor con
 * **Project Link:** [TIPE Hydrophobicity](https://github.com/N1kor4/TIPE_PC)
 
 ---
-
-## Technical Skills
-
-* **Languages:** Python, C++, MATLAB, Arduino
-* **Technologies:** Image Processing (OpenCV), Embedded Systems, Microelectronics
-* **Tools:** Git, MS Office, Arduino IDE, Visual Studio Code
-
----
-
-## Contact
-
-* **Email:** [rabreau.nicolas@pm.me](mailto:rabreau.nicolas@pm.me)
-* **LinkedIn:** [Nicolas Rabreau](https://www.linkedin.com/in/nicolas-rabreau)
-
----
-
-If you want, I can also **rewrite the Waveform Plotter section** with a **more GitHub-readme-friendly style**, including interactive examples, folder structure, and a small table of features—so it looks extremely professional and visually appealing.
-
-Do you want me to do that next?
-
 
 ## Technical Skills
 
