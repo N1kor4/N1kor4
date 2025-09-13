@@ -8,7 +8,22 @@ I am a final-year engineering student at Phelma (Grenoble INP), specializing in 
 
 ## Projects
 
-### 1. Waveform Plotter
+### 1. Eminent Earth – Privacy-Focused Web Portfolio
+
+**Eminent Earth** is a personal web project that showcases my profile and work while emphasizing **privacy, reproducibility, and security**. I built it with **Astro**, leveraging **Docker** for containerized deployment to ensure consistent, isolated, and reproducible environments.
+
+* **Technologies:** Astro, Docker, HTML, CSS, JavaScript
+* **Key Skills:** Privacy-first web development, containerized deployment, static site generation, modern frontend design
+* **Project Highlights:**
+  * Fully containerized with **Docker** for secure and reproducible deployment
+  * Privacy-focused: no tracking scripts, minimal data collection
+  * Modular, maintainable design suitable for personal and professional portfolios
+  * Lightweight and fast thanks to Astro’s static site generation
+* **Project Link:** [Eminent Earth](https://github.com/N1kor4/eminent-earth)
+
+
+
+### 2. Waveform Plotter
 
 A **Python tool** to read, visualize, and export waveform data from `.txt` or `.csv` files. It supports interactive selection or JSON configuration for batch runs, with flexible plotting, legends, and export options.
 
@@ -16,9 +31,8 @@ A **Python tool** to read, visualize, and export waveform data from `.txt` or `.
 * **Key Skills:** Data visualization, signal processing, automation, workflow optimization
 * **Project Link:** [Waveform Plotter](https://gitlab.com/N1kor4/from_waveform_to_python)
 
----
 
-### 2. IPhy Challenge – Memory of the Future (FeRAM)
+### 3. IPhy Challenge – Memory of the Future (FeRAM)
 
 Development of a measurement station for **Ferroelectric RAM (FeRAM)** characterization. The project involved direct manipulation of Arduino ports for data read/write operations and electrical parameter measurement.
 
@@ -26,9 +40,8 @@ Development of a measurement station for **Ferroelectric RAM (FeRAM)** character
 * **Key Skills:** Embedded systems programming, memory testing, electrical measurement, code optimization
 * **Project Link:** [FeRAM Challenge](https://github.com/minfo10/Defis_FeRAM)
 
----
 
-### 3. Self-playable Tetris in C++
+### 4. Self-playable Tetris in C++
 
 A **C++ Tetris game** with graphical interface management, saving features, and cross-platform support.
 
@@ -36,9 +49,8 @@ A **C++ Tetris game** with graphical interface management, saving features, and 
 * **Key Skills:** Object-oriented programming, event handling, cross-platform development
 * **Project Link:** [Tetris C++](https://github.com/N1kor4/Tetris)
 
----
 
-### 4. TIPE – Dynamic Hydrophobicity Analysis with Arduino and Python
+### 5. TIPE – Dynamic Hydrophobicity Analysis with Arduino and Python
 
 Study of dynamic hydrophobicity of various materials using a **stepper motor controlled by Arduino** and **image analysis in Python** to measure droplet detachment angles.
 
