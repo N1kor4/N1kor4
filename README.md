@@ -1,8 +1,8 @@
-# Nicolas Rabreau - Scientific and Technical Projects
+# Nicolas Rabreau - Me and my Projects
 
 ## About Me
 
-I am a final-year engineering student at Phelma (Grenoble INP), specializing in Photonics and Microelectronics, with a strong interest in Quantum Physics and its applications in emerging technologies. This repository showcases my work in **C++**, **Python**, and **Arduino**, highlighting my skills in programming and managing complex technical systems.
+I am a final-year engineering student at Phelma - Grenoble INP, specializing in quantum physics and microelectronics, with a strong interest in emerging technologies. This repository showcases my work in **C++**, **Python**, and **Arduino** from simple Python plots to **Astro** website.
 
 ---
 
@@ -19,16 +19,16 @@ I am a final-year engineering student at Phelma (Grenoble INP), specializing in 
 
 ### 2. Waveform Plotter
 
-A **Python tool** to read, visualize, and export waveform data from `.txt` or `.csv` files. It supports interactive selection or JSON configuration for batch runs, with flexible plotting, legends, and export options.
+A **Python tool** to read, visualize, and export waveform data from `.txt` or `.csv` files. It supports interactive selection or JSON configuration for batch runs, with flexible plotting, legends, and export options. Developed during my internship at EPFL.
 
 * **Technologies:** Python, NumPy, Matplotlib
 * **Key Skills:** Data visualization, signal processing, automation, workflow optimization
-* **Project Link:** [Waveform Plotter](https://gitlab.com/N1kor4/from_waveform_to_python)
+* **Project Link:** [Waveform Plotter](https://github.com/N1kor4/from_waveform_to_python)
 
 
 ### 3. IPhy Challenge – Memory of the Future (FeRAM)
 
-Development of a measurement station for **Ferroelectric RAM (FeRAM)** characterization. The project involved direct manipulation of Arduino ports for data read/write operations and electrical parameter measurement.
+Development of a measurement station for **Ferroelectric RAM (FeRAM)** characterization. The project involved direct manipulation of Arduino ports for data read/write operations and electrical parameter measurement. Completed in my 4th year in collaboration with CEA-Leti.
 
 * **Technologies:** Arduino, C++, FeRAM
 * **Key Skills:** Embedded systems programming, memory testing, electrical measurement, code optimization
@@ -37,7 +37,7 @@ Development of a measurement station for **Ferroelectric RAM (FeRAM)** character
 
 ### 4. Self-playable Tetris in C++
 
-A **C++ Tetris game** with graphical interface management, saving features, and cross-platform support.
+A **C++ Tetris game** with graphical interface management, saving features, and cross-platform support. (Not fully working)
 
 * **Technologies:** C++, SDL (Simple DirectMedia Layer)
 * **Key Skills:** Object-oriented programming, event handling, cross-platform development
@@ -51,14 +51,6 @@ Study of dynamic hydrophobicity of various materials using a **stepper motor con
 * **Technologies:** Arduino, Python, OpenCV, NumPy
 * **Key Skills:** Stepper motor control, image processing, experimental data analysis, fluid dynamics
 * **Project Link:** [TIPE Hydrophobicity](https://github.com/N1kor4/TIPE_PC)
-
----
-
-## Technical Skills
-
-* **Languages:** Python, C++, MATLAB, Arduino
-* **Technologies:** Image Processing (OpenCV), Embedded Systems, Microelectronics
-* **Tools:** Git, MS Office, Arduino IDE, Visual Studio Code
 
 ---
 
